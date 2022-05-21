@@ -8,3 +8,4 @@ Calling this app's API is just like calling the Neural Space API, and the respon
 2. Build the app: `npm run build`
 3. Run the app: `npm start`
 4. The app will be running on port 10750. If you need to change it, you can edit the port variable in the `index.ts` file. Just make sure to rebuild the app after changing the port.
+5. Usage of this app is (almost) the same as using the Neural Space API.
