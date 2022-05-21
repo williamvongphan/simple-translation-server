@@ -1,0 +1,12 @@
+node_modules
+node_modules/
+.DS_Store
+.vscode
+.idea
+
+src/*.js
+
+data
+data/
+
+.env
